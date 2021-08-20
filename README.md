@@ -1,5 +1,5 @@
 # Webcam Rubik's Solver
-Permite al usuario escanear las caras de un Cubo de Rubik y posteriormente encontrar la solución, demostrando una animación junto con una lista de los pasos. Creado en MATLAB.
+Permite al usuario escanear las caras de un cubo de Rubik y posteriormente encontrar la solución, demostrando una animación junto con una lista de los pasos. Creado en MATLAB.
 
 ## Requisitos
 * Image Processing Toolbox
