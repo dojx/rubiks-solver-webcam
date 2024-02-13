@@ -1,20 +1,20 @@
 # Webcam Rubik's Solver
-Permite al usuario escanear las caras de un cubo de Rubik y posteriormente encontrar la solución, demostrando una animación junto con una lista de los pasos. Creado en MATLAB.
+Scans and solves a Rubik's cube (3x3) using a webcam, generating a list of necessary moves, along with an animation of the cube being solved.
 
-## Requisitos
+## Requirements
 * Image Processing Toolbox
 * MATLAB Support Package for USB Webcams
-* Cubo de Rubik (3x3)
-* Cámara con resolución 640x480
-* Buena iluminación
+* Rubik's cube (3x3)
+* Camera with resolution of 640x480
+* Good lighting
 
-## Instrucciones
+## Instructions
 
-1. Correr `rubik_main.m`
-2. Escanear las caras del cubo siguiendo las indicaciones
+1. Run `rubik_main.m`
+2. Follow the indications to scan the rubik's cube
 
 ![Scanning the cube](https://github.com/dojx/rubiks-solver-webcam/blob/main/rubik_solver_1_crop.gif)
 
-3. Se demuestran los pasos necesarios para resolver el cubo junto con una animación del cubo.
+3. The steps for solving the cube are shown, along with an animation
 
 ![Instructions for solving](https://github.com/dojx/rubiks-solver-webcam/blob/main/rubik_solver_2_crop.gif)
