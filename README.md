@@ -11,7 +11,7 @@ Scans and solves a Rubik's cube (3x3) using a webcam, generating a list of neces
 ## Instructions
 
 1. Run `rubik_main.m`
-2. Follow the indications to scan the rubik's cube
+2. Follow the indications to scan the Rubik's cube
 
 ![Scanning the cube](https://github.com/dojx/rubiks-solver-webcam/blob/main/rubik_solver_1_crop.gif)
 
