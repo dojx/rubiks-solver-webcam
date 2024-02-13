@@ -13,8 +13,8 @@ Permite al usuario escanear las caras de un cubo de Rubik y posteriormente encon
 1. Correr `rubik_main.m`
 2. Escanear las caras del cubo siguiendo las indicaciones
 
-![Alt Text](https://drive.google.com/file/d/1KLCXlvwrbrIQa28aG953S984NrGuu_nK/view?usp=sharing)
+![Scanning the cube](https://github.com/dojx/rubiks-solver-webcam/blob/main/rubik_solver_1_crop.gif)
 
 3. Se demuestran los pasos necesarios para resolver el cubo junto con una animación del cubo.
 
-![Alt Text](https://drive.google.com/uc?export=view&id=1vvW5xl9rx3qckdG-6K7DlEBdTraWmOwa)
+![Instructions for solving](https://github.com/dojx/rubiks-solver-webcam/blob/main/rubik_solver_2_crop.gif)
